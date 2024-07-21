@@ -1,0 +1,6 @@
+net\sms\controller\StudentController.class
+net\sms\entity\Student.class
+net\sms\StudentManagementSystemApplication.class
+net\sms\service\StudentService.class
+net\sms\repository\StudentRepository.class
+net\sms\service\impl\StudentServiceImpl.class
